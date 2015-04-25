@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="501.21721"
+     inkscape:cy="661.54808"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="-0.034899497,0.99939083"
+       position="47.142857,908.57143"
+       id="guide3098" />
+    <sodipodi:guide
+       orientation="-0.034899497,0.99939083"
+       position="331.92608,545.33239"
+       id="guide3100" />
+    <sodipodi:guide
+       orientation="-0.98480775,0.17364818"
+       position="624.27427,613.1626"
+       id="guide3102" />
+    <sodipodi:guide
+       orientation="-0.98480775,0.17364818"
+       position="366.68537,742.46212"
+       id="guide3104" />
+    <sodipodi:guide
+       orientation="-0.98480775,0.17364818"
+       position="68.690373,718.21846"
+       id="guide3106" />
+    <sodipodi:guide
+       orientation="-0.034899497,0.99939083"
+       position="374.79401,788.4485"
+       id="guide3108" />
+    <sodipodi:guide
+       orientation="-0.034899497,0.99939083"
+       position="317.1879,653.569"
+       id="guide3110" />
+    <sodipodi:guide
+       orientation="-0.98480775,0.17364818"
+       position="189.90868,611.14229"
+       id="guide3112" />
+    <sodipodi:guide
+       orientation="-0.98480775,0.17364818"
+       position="498.0052,735.39105"
+       id="guide3114" />
+    <sodipodi:guide
+       orientation="-0.034899497,0.99939083"
+       position="313.04391,438.246"
+       id="guide3116" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff2a7f;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 668.45072,122.32049 C 52.920214,156.55577 115.08279,75.355298 36.513214,520.9455 159.69836,515.90627 256.20426,513.16426 332.32572,509.16425 L 313.85697,613.8205 C 380.6402,602.00799 431.21785,564.48876 463.41947,497.85175 643.54481,471.5299 619.6942,398.83245 668.45072,122.32049 z M 509.01322,258.9455 C 485.43988,392.63655 485.44786,392.65022 192.41947,402.883 216.0015,269.19165 215.99352,269.17798 509.01322,258.9455 z"
+       id="path3120-1"
+       inkscape:export-filename="/home/fernando/Documentos/Fernando/qampus/favicon.ico.png"
+       inkscape:export-xdpi="2.2298944"
+       inkscape:export-ydpi="2.2298944" />
+    <path
+       style="fill:#80e5ff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 668.46034,122.50425 c -110.20902,6.12973 -198.38791,8.55397 -269.84375,10.96875 l -23.125,131.15625 c 35.98288,-2.07722 79.78549,-3.62316 133.53125,-5.5 -18.13349,102.8401 -22.3442,126.58089 -156.6875,136.71875 l -20,113.5 -18.46875,104.65625 C 380.64982,602.19174 431.22747,564.67251 463.42909,498.0355 643.55443,471.71365 619.70382,399.0162 668.46034,122.50425 z"
+       id="path3120"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/fernando/Documentos/Fernando/qampus/favicon.ico.png"
+       inkscape:export-xdpi="2.2298944"
+       inkscape:export-ydpi="2.2298944" />
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.94371486000000004;stroke-opacity:1"
+       id="rect3983"
+       width="645.77051"
+       height="645.77051"
+       x="29.971859"
+       y="29.4769"
+       inkscape:export-filename="/home/fernando/Documentos/Fernando/qampus/favicon.ico.png"
+       inkscape:export-xdpi="2.2298944"
+       inkscape:export-ydpi="2.2298944" />
+  </g>
+</svg>
